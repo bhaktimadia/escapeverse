@@ -1,7 +1,7 @@
-const RoomDetailPage = async ({ params }: any) => {
-    const roomId = params.roomId;
-    console.log("room params", params);
-    console.log("roomId",roomId);
+
+
+const RoomDetailPage = async () => {
+    // const roomId = params.roomId;
     return <div>Room detail Page</div>;
 };
 

@@ -12,6 +12,7 @@
     "@fontsource/eater": "^5.2.5",
     "@reduxjs/toolkit": "^2.6.0",
     "aos": "^2.3.4",
+    "gl-matrix": "^3.4.3",
     "next": "^15.2.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",

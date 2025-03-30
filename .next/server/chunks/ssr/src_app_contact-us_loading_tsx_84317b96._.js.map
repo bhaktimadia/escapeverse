@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///Users/bhaktim/RaProject/escapeverse/src/app/contact-us/loading.tsx"],"sourcesContent":["const ContactUsLoading = () => {\n    return <div>Loading</div>;\n};\n\nexport default ContactUsLoading;"],"names":[],"mappings":";;;;;AAAA,MAAM,mBAAmB;IACrB,qBAAO,8OAAC;kBAAI;;;;;;AAChB;uCAEe","debugId":null}}]
-}

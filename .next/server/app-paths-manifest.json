@@ -1,8 +1,12 @@
 {
-  "/blogs/page": "app/blogs/page.js",
-  "/contact-us/page": "app/contact-us/page.js",
-  "/events-corporate/page": "app/events-corporate/page.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/blogs/[blogId]/page": "app/blogs/[blogId]/page.js",
+  "/booking/page": "app/booking/page.js",
+  "/blogs/page": "app/blogs/page.js",
+  "/events-corporate/page": "app/events-corporate/page.js",
+  "/contact-us/page": "app/contact-us/page.js",
   "/page": "app/page.js",
+  "/rooms/[roomId]/page": "app/rooms/[roomId]/page.js",
   "/rooms/page": "app/rooms/page.js"
 }

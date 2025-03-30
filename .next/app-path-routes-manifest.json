@@ -1,0 +1,12 @@
+{
+  "/favicon.ico/route": "/favicon.ico",
+  "/_not-found/page": "/_not-found",
+  "/blogs/[blogId]/page": "/blogs/[blogId]",
+  "/booking/page": "/booking",
+  "/blogs/page": "/blogs",
+  "/events-corporate/page": "/events-corporate",
+  "/contact-us/page": "/contact-us",
+  "/page": "/",
+  "/rooms/[roomId]/page": "/rooms/[roomId]",
+  "/rooms/page": "/rooms"
+}

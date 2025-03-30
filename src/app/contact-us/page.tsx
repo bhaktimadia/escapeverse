@@ -1,5 +1,5 @@
-const ContactUs = async () => {
-    return <div>Contact Us</div>;
+const Page = async () => {
+    return <div className="mt-28 px-24">Contact Us</div>;
 };
 
-export default ContactUs;
+export default Page;

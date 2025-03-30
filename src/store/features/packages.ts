@@ -1,5 +1,5 @@
 "use client"
-import { createSlice, PayloadAction, Slice } from "@reduxjs/toolkit";
+import { createSlice, PayloadAction } from "@reduxjs/toolkit";
 import { RootState } from "../store";
 import { useAppDispatch, useAppSelector } from "../hooks";
 

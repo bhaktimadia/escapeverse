@@ -30,11 +30,11 @@ export const rooms = [
 
 export const quickLinks = [
     { name: 'Home', href: '/' },
-    { name: 'Book Now', href: '/book' },
-    { name: 'Events & Corporates', href: '/events' },
+    { name: 'Book Now', href: '/booking' },
+    { name: 'Events & Corporates', href: '/events-corporate' },
     { name: 'Blogs', href: '/blogs' },
-    { name: 'FAQs', href: '/faq' },
-    { name: 'Gallery', href: '/gallery' },
+    { name: 'FAQs', href: '/contact-us' },
+    { name: 'Gallery', href: '/' },
 ];
 
 export const contactInfo = [

@@ -1,5 +1,7 @@
-const BlogsPage = async () => {
-    return <div>Blog Page</div>;
+import { BlogsPage } from "@/screens";
+
+const Page = async () => {
+    return <BlogsPage />;
 };
 
-export default BlogsPage;
+export default Page;
