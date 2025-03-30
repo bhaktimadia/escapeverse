@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///Users/bhaktim/RaProject/escapeverse/src/app/blogs/loading.tsx"],"sourcesContent":["const BlogLoading = () => {\n    return (\n        <>\n            Blog loading\n        </>\n    )\n}\n\nexport default BlogLoading;"],"names":[],"mappings":";;;;;AAAA,MAAM,cAAc;IAChB,qBACI;kBAAE;;AAIV;uCAEe","debugId":null}}]
+}
